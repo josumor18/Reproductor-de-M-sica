@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">#13172b</color>
+    <color name="colorProgressBackgroungTint">#d2e8ff</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#41c3ff</color>
+    <color name="colorVolume">#a8ffffff</color>
+    <color name="colorKaraoke">#3e3e40</color>
+    <color name="colorBlanco">#ffffff</color>
+</resources>

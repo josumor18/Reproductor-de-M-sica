@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReproductorMusica</string>
+    <string name="lista_canciones">Playlist</string>
+</resources>
